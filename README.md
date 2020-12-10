@@ -11,5 +11,6 @@
   
 End-to-end IoT-Based Solutions Website for upcoming iot Projects
  <a href="https://github.com/seifoueslati/Tekso.tn/blob/main/screencapture-tekso-tn-.png?raw=true">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    
+    <img src="https://github.com/seifoueslati/Tekso.tn/blob/main/screencapture-tekso-tn-.png?raw=true" alt="Logo" width="80" height="80">
   </a>
